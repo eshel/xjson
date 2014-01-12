@@ -1,3 +1,7 @@
+#!/usr/local/bin/python
+
+__author__ = 'Amir Eshel <amir@eshel.com>'
+
 import json
 import sys
 import argparse
